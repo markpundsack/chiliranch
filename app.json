@@ -2,7 +2,7 @@
   "name":"chiliranch",
   "scripts":{},
   "env": {
-    "BUILDPACK_URL": "https://github.com/zeke/harp-buildpack.git",
+    "BUILDPACK_URL": "https://github.com/markpundsack/harp-buildpack.git",
     "NODE_ENV": "production"
   },
   "addons":[]
