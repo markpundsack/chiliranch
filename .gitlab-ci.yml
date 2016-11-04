@@ -2,7 +2,7 @@
 # Full project: https://gitlab.com/pages/plain-html
 pages:
   image: alpine
-  stage: deploy
+  stage: build
   script:
   - mkdir .public
   - cp -r * .public
